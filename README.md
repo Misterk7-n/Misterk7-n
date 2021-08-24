@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Misterk7-n
-- 👀 I’m interested in ... NONE OF YOUR BUSINESS
-- 🌱 I’m currently learning ... NOTHING
+- 👀 I’m interested in ... THINGS
+- 🌱 I’m currently learning ... THINGS
 - 💞️ I’m looking to collaborate on ... NOTHING
-- 📫 How to reach me ... KNOCK ON MY DOOR
+- 📫 How to reach me ... GROW ARMS
 
 <!---
 Misterk7-n/Misterk7-n is a ✨ STUPID ✨ repository because its `README.md` (this file) appears on your GitHub profile.
